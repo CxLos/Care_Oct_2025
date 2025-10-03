@@ -1,1 +1,1 @@
-web: gunicorn care_jul_25:server
+web: gunicorn care_oct_25:server
